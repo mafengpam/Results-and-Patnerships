@@ -1,0 +1,36 @@
+.parent-section{
+	display: flex;
+}
+
+.section-1{
+	background-color: white;
+	height: 100px;
+	width: 50%;
+}
+
+.section-2{
+	background-color: white;
+	height: 100px;
+	width: 50%;
+	border-radius: 10px;
+}
+
+#box{
+	height: 10px;
+	background-color: orange;
+	width: 60%;
+}
+
+.section-2-image{
+	background-color: yellow;
+	width: 60%;
+	padding-top: 5%
+	padding-bottom:5%;
+}
+
+.profile-image{
+	width: 80%;
+	margin-left: 10%;
+}
+
+
